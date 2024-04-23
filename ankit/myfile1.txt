@@ -1,0 +1,3 @@
+This is the best file on this planet , Please dont argue with me on this one
+This is another content
+Welcome to the world of php. <br>This file a added or apended in the last line of my text file.
